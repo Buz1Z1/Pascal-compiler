@@ -1,0 +1,17 @@
+program example;
+type 
+	direction=(north, south, west, east);
+	Year = 1900..2000;
+		anketa=record
+                fio: char; 
+                pol: char; 
+                datr: integer;
+		end;
+var var
+	i, k: integer;
+	turn:direction;
+	Y: Year;
+begin
+	k:==i*i;
+	i:=5;
+end.

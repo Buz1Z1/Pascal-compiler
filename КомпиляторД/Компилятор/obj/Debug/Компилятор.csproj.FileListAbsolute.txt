@@ -1,0 +1,16 @@
+C:\Users\1\source\repos\Компилятор\Компилятор\bin\Debug\Компилятор.exe.config
+C:\Users\1\source\repos\Компилятор\Компилятор\bin\Debug\Компилятор.exe
+C:\Users\1\source\repos\Компилятор\Компилятор\bin\Debug\Компилятор.pdb
+C:\Users\1\source\repos\Компилятор\Компилятор\obj\Debug\Компилятор.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Компилятор\Компилятор\obj\Debug\Компилятор.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\source\repos\Компилятор\Компилятор\obj\Debug\Компилятор.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Компилятор\Компилятор\obj\Debug\Компилятор.exe
+C:\Users\1\source\repos\Компилятор\Компилятор\obj\Debug\Компилятор.pdb
+C:\Users\Степан\source\repos\КомпиляторД\Компилятор\bin\Debug\Компилятор.exe.config
+C:\Users\Степан\source\repos\КомпиляторД\Компилятор\bin\Debug\Компилятор.exe
+C:\Users\Степан\source\repos\КомпиляторД\Компилятор\bin\Debug\Компилятор.pdb
+C:\Users\Степан\source\repos\КомпиляторД\Компилятор\obj\Debug\Компилятор.csproj.AssemblyReference.cache
+C:\Users\Степан\source\repos\КомпиляторД\Компилятор\obj\Debug\Компилятор.csproj.SuggestedBindingRedirects.cache
+C:\Users\Степан\source\repos\КомпиляторД\Компилятор\obj\Debug\Компилятор.csproj.CoreCompileInputs.cache
+C:\Users\Степан\source\repos\КомпиляторД\Компилятор\obj\Debug\Компилятор.exe
+C:\Users\Степан\source\repos\КомпиляторД\Компилятор\obj\Debug\Компилятор.pdb
