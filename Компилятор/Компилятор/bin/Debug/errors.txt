@@ -1,0 +1,21 @@
+program a; 
+type y=record 
+	as,sa:integer; 
+	c:real; 
+end; 
+ 
+var var q:integer; 
+    ^ ошибка код 2 **01**
+ 
+begin 
+q:=1+-1; 
+     ^ ошибка код 2 **02**
+      ^ ошибка код 6 **03**
+y.as:=q#; 
+       ^ ошибка код 6 **04**
+       ^ ошибка код 6 **05**
+with a do 
+begin 
+q:=5+5; 
+end; 
+end. 
